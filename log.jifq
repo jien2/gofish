@@ -1,1 +1,15 @@
-$ Hello World
+$ It's Commentary
+[test]
+{
+test_field = Hello,
+another_field = 5
+}
+[test2]
+{
+test_field = [
+it's multiline text
+wow
+test
+],
+another_field = 2
+}
